@@ -30,4 +30,4 @@ jobs:
       - name: docker push
         uses: actions/docker/cli@master
         with:
-          args: push abhinavdhasmana/github-action-example-node
+          args: push nazeeronline/github-action-example-node
